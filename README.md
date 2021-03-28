@@ -1,2 +1,2 @@
 # Liquorpurchase
-An Web App for Liquorpurchase
+An App for Liquorpurchase
